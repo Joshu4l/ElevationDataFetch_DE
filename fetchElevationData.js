@@ -7,7 +7,7 @@ const inputFilePath = "/Users/joshuaalbert/Documents/geolocations_DE_reduced.jso
 const outputFilePath = "/Users/joshuaalbert/Documents/mapped.json";
 
 // Google API-Key
-const api_key = "AIzaSyB9DdZCw-pbUAPj9EcAw58iMm8cGtpPXzw";
+const api_key = "";
 
 // Funktion zum Aufteilen der Orte in Stapel
 function chunkArray(array, chunkSize) {
